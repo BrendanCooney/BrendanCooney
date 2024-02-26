@@ -1,5 +1,11 @@
 ### Hi there My Name is Brendan Cooney 👋
 
+- 🔭 I’m currently working on my PP5 Ecommerce Project 
+- 🌱 I’m currently learning Pyhton, & Django
+- 👯 I’m looking to collaborate on projects that solve problems and make massive profits!
+- 🤔 I’m looking for help with finding a developer role!
+- 💬 Ask me about Digital Marketing and Computer Hardware. 
+
 <!--
 **BrendanCooney/BrendanCooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
